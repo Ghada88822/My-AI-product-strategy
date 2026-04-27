@@ -3,8 +3,8 @@
 ## Product
 <!-- Name the product you're diagnosing. Real product at your company — not a hypothetical. -->
 
-**Product:**
-**Your Role:**
+**Product:** Sales CRM
+**Your Role:** Product Lead
 
 ---
 
@@ -19,16 +19,17 @@
 
 ---
 
-### Data Advantage — __/5
+### Data Advantage — 4/5
 *Proprietary signal that compounds with usage. What do you see that OpenAI doesn't?*
 
 **Score rationale:**
+
 
 **Named attacker (from partner challenge):**
 
 ---
 
-### Platform Exposure — __/5
+### Platform Exposure — 5/5
 *Encroachment risk × pivot speed. If Apple/Google/OpenAI ships your hero feature native — then what?*
 
 **Score rationale:**
