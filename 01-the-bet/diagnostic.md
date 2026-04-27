@@ -23,7 +23,7 @@
 *Proprietary signal that compounds with usage. What do you see that OpenAI doesn't?*
 
 **Score rationale:**
-
+Sales CRM has all clients and prospects data, all revenue outcome data (opportunities outcome, cycle length, financial and services proposal, etc.),commercial and interactions data and sales users activity (meetings, demos, comments, updates...).
 
 **Named attacker (from partner challenge):**
 
