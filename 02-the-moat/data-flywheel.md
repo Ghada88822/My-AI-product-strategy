@@ -42,6 +42,6 @@
 
 *Your partner played the Big Tech attacker. What was their plan to kill you?*
 
-**Attacker:**
-**Attack vector:**
+**Attacker: **
+**Attack vector: Included in Microsoft 365**
 **Your defense:**
