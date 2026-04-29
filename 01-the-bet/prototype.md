@@ -10,7 +10,7 @@
 <!-- Paste the shareable URL --> https://horizon-deal-insight.lovable.app)
 
 ## AI Value Archetype
-<!-- Automator / Copilot / Oracle / Creator / Orchestrator -->
+<!-- Automator / Copilot / Oracle / Creator / Orchestrator --> Oracle
 
 ## The Bet in One Sentence
 <!-- What you're building, for whom, why now -->
