@@ -10,7 +10,7 @@
 
 ## Scores
 
-### Contextual Moat — 3/5
+### Contextual Moat — 2/5
 *Workflow depth × switching cost. Would users leave in a weekend if a competitor showed up?*
 
 **Score rationale:**
