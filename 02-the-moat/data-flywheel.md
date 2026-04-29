@@ -42,6 +42,6 @@
 
 *Your partner played the Big Tech attacker. What was their plan to kill you?*
 
-**Attacker: **
-**Attack vector: Included in Microsoft 365**
-**Your defense:**
+**Attacker: Microsfot with Microsoft Pilot**
+**Attack vector: Own the user's daily tools (Outlook, Teams, Office 365, browser sidebar) that are not inside the CRM and where the users build habits. If they connect to CRM in one click, then the CRM becomes a source database.**
+**Your defense: Build preference faster (learn sales specific preferences), own revenue generation workflow not just chat**
